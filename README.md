@@ -4,7 +4,7 @@ Sega Genesis 3 function restore helper boards to make wiring easier and cleaner 
 
 ![My Image](main.png)
 
-##Mod Kit Variants
+## Mod Kit Variants
 
 The function restore boards come in two main versions catered for the "VA1" and the VA2 revision Genesis 3 motherboards.
 
