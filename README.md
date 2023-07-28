@@ -1,4 +1,4 @@
-# Sega Genesis 3 Function Restore Adapter Boards
+# Sega Genesis 3 Function Restore Helper Boards
 
 Sega Genesis 3 function restore helper boards to make wiring easier and cleaner when restoring the removed functions from Sega Genesis 3 consoles. Especially useful for "VA1" revision which requires soldering between the cartridge port plastic and PCB.
 
