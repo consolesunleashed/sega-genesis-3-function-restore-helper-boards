@@ -24,13 +24,13 @@ The function restore helper boards come in two main versions catered for the "VA
 
 ### VA1 Standard / Mini
 
-V1 - 25/07/2023
-V1.1 - 12/08/2023
+- V1 - 25/07/2023
+- V1.1 - 12/08/2023
 
 ### VA2 Standard / Mini
 
-V1 - 27/07/2023
-V1.1 - 20/08/2023
+- V1 - 27/07/2023
+- V1.1 - 20/08/2023
 
 ## License
 
