@@ -1,12 +1,12 @@
 # Sega Genesis 3 Function Restore Helper Boards
 
-Sega Genesis 3 function restore helper boards are designed to make wiring easier and cleaner when restoring the removed functions from Sega Genesis 3 consoles. Especially useful for "VA1" revision which requires soldering between the cartridge port plastic and PCB.
+Sega Genesis 3 function restore helper boards are designed to make wiring easier and cleaner when restoring the removed functions from Sega Genesis 3 consoles. Especially useful for "VA1" revision which requires soldering between the cartridge port plastic and PCB which can be difficult to do well.
 
 ![My Image](main.png)
 
 ## Mod Kit Variants
 
-The function restore boards come in two main versions catered for the "VA1" and the VA2 revision Genesis 3 motherboards.
+The function restore helper boards come in two main versions catered for the "VA1" and the VA2 revision Genesis 3 motherboards.
 
 - VA1 Standard - Looks awesome.
 - VA1 Mini - A smaller version.
@@ -18,11 +18,19 @@ The function restore boards come in two main versions catered for the "VA1" and 
 
 - 0.6mm is ideal. 0.8mm is also good. 1mm is ok. 1.2mm is too much. 1.6mm is stupid.
 - Get them in blue or else.
-- Castellated vias are recommended. Failure to get castellated will mean the half cut vias will need cleaning and also potentially have torn off copper plating during manufacturing.
+- Castellated vias are recommended. Failure to get castellated will mean the half cut vias will need cleaning and also potentially have torn off copper plating during manufacturing. Might be fine though.
 
 ## Version History
 
-Coming soon.
+### VA1 Standard / Mini
+
+V1 - 25/07/2023
+V1.1 - 12/08/2023
+
+### VA2 Standard / Mini
+
+V1 - 27/07/2023
+V1.1 - 20/08/2023
 
 ## License
 
