@@ -20,6 +20,10 @@ The function restore helper boards come in two main versions catered for the "VA
 - Get them in blue or else.
 - Castellated vias are recommended. Failure to get castellated will mean the half cut vias will need cleaning and also potentially have torn off copper plating during manufacturing. Might be fine though.
 
+## Install Guide
+
+https://www.consolesunleashed.com/guides/sega-genesis-3-function-restore-install-guide/
+
 ## Version History
 
 ### VA1 Standard / Mini
