@@ -28,6 +28,10 @@ The function restore helper boards come in two main versions catered for the "VA
 
 https://www.consolesunleashed.com/guides/sega-genesis-3-function-restore-install-guide/
 
+## Future Work
+
+A full no-wire flex PCB design for "VA1" that will extend from the cart port to all wiring destinations. This has been roughed out, but not owning a "VA1" means that the ability to finish the design is hindered. If you can donate a "VA1" Genesis 3 or sell me one, it will help a lot. Thanks
+
 ## Version History
 
 ### VA1 Standard / Mini
