@@ -14,8 +14,7 @@ The function restore helper boards come in two main versions catered for the "VA
 
 - VA1 Standard - Looks awesome.
 - VA1 Mini - A smaller version.
-- VA1 Mini Compensated - A smaller version with pads in order of destination solder point so no wires need to be crossed.
-- VA2 standard - Quick solder board with pads for Mega CD passthrough audio.
+- VA2 standard - Quick solder board with pads for Triple Bypass audio.
 - VA2 Mini - A smaller version without the Mega CD audio pads.
 
 ## Manufacturing
@@ -30,7 +29,7 @@ https://www.consolesunleashed.com/guides/sega-genesis-3-function-restore-install
 
 ## Future Work
 
-A full no-wire flex PCB design for "VA1" that will extend from the cart port to all wiring destinations. This has been roughed out, but not owning a "VA1" means that the ability to finish the design is hindered. If you can donate a "VA1" Genesis 3 or sell me one, it will help a lot. Thanks
+A full no-wire flex PCB design for "VA1" that will extend from the cart port to all wiring destinations. This has been roughed out, but not owning a "VA1" means that the ability to finish the design is hindered. If you can donate a "VA1" Genesis 3 or sell me one, it will help a lot. Please help. Thanks
 
 ## Version History
 
