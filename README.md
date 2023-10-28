@@ -35,12 +35,12 @@ A full no-wire flex PCB design for "VA1" that will extend from the cart port to 
 
 ### VA1 Standard / Mini
 
-- V1 - 25/07/2023
+- V1.0 - 25/07/2023
 - V1.1 - 12/08/2023
 
 ### VA2 Standard / Mini
 
-- V1 - 27/07/2023
+- V1.0 - 27/07/2023
 - V1.1 - 20/08/2023
 
 ## License
