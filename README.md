@@ -8,6 +8,10 @@ Sega Genesis 3 function restore helper boards are designed to make wiring easier
 
 ![My Image](main.png)
 
+## Future Work
+
+A full no-wire flex PCB design for "VA1" that will extend from the cart port to all wiring destinations. This has been roughed out, but not owning a "VA1" means that the ability to finish the design is hindered. If you can donate a "VA1" Genesis 3 or sell me one, it will help a lot. Please help. Thanks
+
 ## Mod Kit Variants
 
 The function restore helper boards come in two main versions catered for the "VA1" and the VA2 revision Genesis 3 motherboards.
@@ -26,10 +30,6 @@ The function restore helper boards come in two main versions catered for the "VA
 ## Install Guide
 
 https://www.consolesunleashed.com/guides/sega-genesis-3-function-restore-install-guide/
-
-## Future Work
-
-A full no-wire flex PCB design for "VA1" that will extend from the cart port to all wiring destinations. This has been roughed out, but not owning a "VA1" means that the ability to finish the design is hindered. If you can donate a "VA1" Genesis 3 or sell me one, it will help a lot. Please help. Thanks
 
 ## Version History
 
