@@ -15,7 +15,7 @@ The function restore helper boards come in two main versions catered for the "VA
 - VA1 Standard - Looks awesome.
 - VA1 Mini - A smaller version.
 - VA2 standard - Quick solder board with pads for Triple Bypass audio.
-- VA2 Mini - A smaller version without the Mega CD audio pads.
+- VA2 Mini - A smaller version without the Triple Bypass audio pads.
 
 ## Manufacturing
 
